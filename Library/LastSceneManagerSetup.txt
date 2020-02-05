@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Learning/PBRLearn/Scene/PERLearn.unity
+  isLoaded: 1
+  isActive: 1
