@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Learning/PBRLearn/Scene/PERLearn.unity
+- path: Assets/Learning/NevMeshTest/Scene/NevMeshTest.unity
   isLoaded: 1
   isActive: 1
