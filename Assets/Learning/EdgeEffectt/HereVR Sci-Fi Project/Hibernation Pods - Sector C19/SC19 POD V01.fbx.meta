@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: cd92a6f938461034a807831c9e0d8e05
+timeCreated: 1432484605
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: POD  BELT Down HI
+    100002: POD  BELT Down LOW
+    100004: POD  BELT Down MID
+    100006: POD  BELT Up HI
+    100008: POD  BELT Up LOW
+    100010: POD  BELT Up MID
+    100012: POD AXIS BELT DOWN
+    100014: POD AXIS BELT UP
+    100016: POD AXIS Screen Base
+    100018: POD AXIS Screen I
+    100020: POD AXIS Screen II
+    100022: POD CABIN AXIS
+    100024: POD CABIN HI
+    100026: POD CABIN LOW
+    100028: POD CABIN MID
+    100030: POD Glass Axis Bottom Left
+    100032: POD Glass Axis Bottom Right
+    100034: POD Glass Axis Mid Left
+    100036: POD Glass Axis Mid Right
+    100038: POD Glass Axis Top Left
+    100040: POD Glass Axis Top Right
+    100042: POD Glass Bottom Left HI
+    100044: POD Glass Bottom Left LOW
+    100046: POD Glass Bottom Left MID
+    100048: POD Glass Bottom Right HI
+    100050: POD Glass Bottom Right LOW
+    100052: POD Glass Bottom Right MID
+    100054: POD Glass Mid Left HI
+    100056: POD Glass Mid Left LOW
+    100058: POD Glass Mid Left MID
+    100060: POD Glass Mid Right HI
+    100062: POD Glass Mid Right LOW
+    100064: POD Glass Mid Right MID
+    100066: POD Glass Top Left HI
+    100068: POD Glass Top Left LOW
+    100070: POD Glass Top Left MID
+    100072: POD Glass Top Right HI
+    100074: POD Glass Top Right LOW
+    100076: POD Glass Top Right MID
+    100078: POD LCD AXIS
+    100080: POD PIPE Axis Base
+    100082: POD PIPE Axis Cabin
+    100084: POD Piston  Pipe I HI
+    100086: POD Piston  Pipe I LOW
+    100088: POD Piston  Pipe I MID
+    100090: POD Piston  Pipe II HI
+    100092: POD Piston  Pipe II LOW
+    100094: POD Piston  Pipe II MID
+    100096: POD Screen Base HI
+    100098: POD Screen Base LOW
+    100100: POD Screen Base MID
+    100102: POD Screen I HI
+    100104: POD Screen I LOW
+    100106: POD Screen I MID
+    100108: POD Screen II HI
+    100110: POD Screen II LOW
+    100112: POD Screen II MID
+    100114: POD Stairs 01
+    100116: POD Stairs 02
+    100118: POD Stairs 03
+    100120: POD V01 Base HI
+    100122: POD V01 Base LOW
+    100124: POD V01 Base MID
+    100126: POD V01 LCD MAIN HI
+    100128: POD V01 LCD MAIN LOW
+    100130: POD V01 LCD MAIN MID
+    100132: //RootNode
+    400000: POD  BELT Down HI
+    400002: POD  BELT Down LOW
+    400004: POD  BELT Down MID
+    400006: POD  BELT Up HI
+    400008: POD  BELT Up LOW
+    400010: POD  BELT Up MID
+    400012: POD AXIS BELT DOWN
+    400014: POD AXIS BELT UP
+    400016: POD AXIS Screen Base
+    400018: POD AXIS Screen I
+    400020: POD AXIS Screen II
+    400022: POD CABIN AXIS
+    400024: POD CABIN HI
+    400026: POD CABIN LOW
+    400028: POD CABIN MID
+    400030: POD Glass Axis Bottom Left
+    400032: POD Glass Axis Bottom Right
+    400034: POD Glass Axis Mid Left
+    400036: POD Glass Axis Mid Right
+    400038: POD Glass Axis Top Left
+    400040: POD Glass Axis Top Right
+    400042: POD Glass Bottom Left HI
+    400044: POD Glass Bottom Left LOW
+    400046: POD Glass Bottom Left MID
+    400048: POD Glass Bottom Right HI
+    400050: POD Glass Bottom Right LOW
+    400052: POD Glass Bottom Right MID
+    400054: POD Glass Mid Left HI
+    400056: POD Glass Mid Left LOW
+    400058: POD Glass Mid Left MID
+    400060: POD Glass Mid Right HI
+    400062: POD Glass Mid Right LOW
+    400064: POD Glass Mid Right MID
+    400066: POD Glass Top Left HI
+    400068: POD Glass Top Left LOW
+    400070: POD Glass Top Left MID
+    400072: POD Glass Top Right HI
+    400074: POD Glass Top Right LOW
+    400076: POD Glass Top Right MID
+    400078: POD LCD AXIS
+    400080: POD PIPE Axis Base
+    400082: POD PIPE Axis Cabin
+    400084: POD Piston  Pipe I HI
+    400086: POD Piston  Pipe I LOW
+    400088: POD Piston  Pipe I MID
+    400090: POD Piston  Pipe II HI
+    400092: POD Piston  Pipe II LOW
+    400094: POD Piston  Pipe II MID
+    400096: POD Screen Base HI
+    400098: POD Screen Base LOW
+    400100: POD Screen Base MID
+    400102: POD Screen I HI
+    400104: POD Screen I LOW
+    400106: POD Screen I MID
+    400108: POD Screen II HI
+    400110: POD Screen II LOW
+    400112: POD Screen II MID
+    400114: POD Stairs 01
+    400116: POD Stairs 02
+    400118: POD Stairs 03
+    400120: POD V01 Base HI
+    400122: POD V01 Base LOW
+    400124: POD V01 Base MID
+    400126: POD V01 LCD MAIN HI
+    400128: POD V01 LCD MAIN LOW
+    400130: POD V01 LCD MAIN MID
+    400132: //RootNode
+    2300000: POD  BELT Down HI
+    2300002: POD  BELT Down LOW
+    2300004: POD  BELT Down MID
+    2300006: POD  BELT Up HI
+    2300008: POD  BELT Up LOW
+    2300010: POD  BELT Up MID
+    2300012: POD CABIN HI
+    2300014: POD CABIN LOW
+    2300016: POD CABIN MID
+    2300018: POD Glass Bottom Left HI
+    2300020: POD Glass Bottom Left LOW
+    2300022: POD Glass Bottom Left MID
+    2300024: POD Glass Bottom Right HI
+    2300026: POD Glass Bottom Right LOW
+    2300028: POD Glass Bottom Right MID
+    2300030: POD Glass Mid Left HI
+    2300032: POD Glass Mid Left LOW
+    2300034: POD Glass Mid Left MID
+    2300036: POD Glass Mid Right HI
+    2300038: POD Glass Mid Right LOW
+    2300040: POD Glass Mid Right MID
+    2300042: POD Glass Top Left HI
+    2300044: POD Glass Top Left LOW
+    2300046: POD Glass Top Left MID
+    2300048: POD Glass Top Right HI
+    2300050: POD Glass Top Right LOW
+    2300052: POD Glass Top Right MID
+    2300054: POD Piston  Pipe I HI
+    2300056: POD Piston  Pipe I LOW
+    2300058: POD Piston  Pipe I MID
+    2300060: POD Piston  Pipe II HI
+    2300062: POD Piston  Pipe II LOW
+    2300064: POD Piston  Pipe II MID
+    2300066: POD Screen Base HI
+    2300068: POD Screen Base LOW
+    2300070: POD Screen Base MID
+    2300072: POD Screen I HI
+    2300074: POD Screen I LOW
+    2300076: POD Screen I MID
+    2300078: POD Screen II HI
+    2300080: POD Screen II LOW
+    2300082: POD Screen II MID
+    2300084: POD Stairs 01
+    2300086: POD Stairs 02
+    2300088: POD Stairs 03
+    2300090: POD V01 Base HI
+    2300092: POD V01 Base LOW
+    2300094: POD V01 Base MID
+    2300096: POD V01 LCD MAIN HI
+    2300098: POD V01 LCD MAIN LOW
+    2300100: POD V01 LCD MAIN MID
+    3300000: POD  BELT Down HI
+    3300002: POD  BELT Down LOW
+    3300004: POD  BELT Down MID
+    3300006: POD  BELT Up HI
+    3300008: POD  BELT Up LOW
+    3300010: POD  BELT Up MID
+    3300012: POD CABIN HI
+    3300014: POD CABIN LOW
+    3300016: POD CABIN MID
+    3300018: POD Glass Bottom Left HI
+    3300020: POD Glass Bottom Left LOW
+    3300022: POD Glass Bottom Left MID
+    3300024: POD Glass Bottom Right HI
+    3300026: POD Glass Bottom Right LOW
+    3300028: POD Glass Bottom Right MID
+    3300030: POD Glass Mid Left HI
+    3300032: POD Glass Mid Left LOW
+    3300034: POD Glass Mid Left MID
+    3300036: POD Glass Mid Right HI
+    3300038: POD Glass Mid Right LOW
+    3300040: POD Glass Mid Right MID
+    3300042: POD Glass Top Left HI
+    3300044: POD Glass Top Left LOW
+    3300046: POD Glass Top Left MID
+    3300048: POD Glass Top Right HI
+    3300050: POD Glass Top Right LOW
+    3300052: POD Glass Top Right MID
+    3300054: POD Piston  Pipe I HI
+    3300056: POD Piston  Pipe I LOW
+    3300058: POD Piston  Pipe I MID
+    3300060: POD Piston  Pipe II HI
+    3300062: POD Piston  Pipe II LOW
+    3300064: POD Piston  Pipe II MID
+    3300066: POD Screen Base HI
+    3300068: POD Screen Base LOW
+    3300070: POD Screen Base MID
+    3300072: POD Screen I HI
+    3300074: POD Screen I LOW
+    3300076: POD Screen I MID
+    3300078: POD Screen II HI
+    3300080: POD Screen II LOW
+    3300082: POD Screen II MID
+    3300084: POD Stairs 01
+    3300086: POD Stairs 02
+    3300088: POD Stairs 03
+    3300090: POD V01 Base HI
+    3300092: POD V01 Base LOW
+    3300094: POD V01 Base MID
+    3300096: POD V01 LCD MAIN HI
+    3300098: POD V01 LCD MAIN LOW
+    3300100: POD V01 LCD MAIN MID
+    4300000: POD Piston  Pipe II MID
+    4300002: POD CABIN HI
+    4300004: POD CABIN MID
+    4300006: POD CABIN LOW
+    4300008: POD Screen Base HI
+    4300010: POD Screen Base LOW
+    4300012: POD Screen Base MID
+    4300014: POD Screen I HI
+    4300016: POD Screen I LOW
+    4300018: POD Screen I MID
+    4300020: POD Screen II HI
+    4300022: POD Screen II LOW
+    4300024: POD Screen II MID
+    4300026: POD  BELT Up HI
+    4300028: POD  BELT Up LOW
+    4300030: POD  BELT Up MID
+    4300032: POD  BELT Down HI
+    4300034: POD  BELT Down LOW
+    4300036: POD  BELT Down MID
+    4300038: POD Glass Mid Left HI
+    4300040: POD Glass Mid Left MID
+    4300042: POD Glass Mid Left LOW
+    4300044: POD Glass Mid Right HI
+    4300046: POD Glass Mid Right MID
+    4300048: POD Glass Mid Right LOW
+    4300050: POD Glass Top Right HI
+    4300052: POD Glass Top Right MID
+    4300054: POD Glass Top Right LOW
+    4300056: POD Glass Top Left HI
+    4300058: POD Glass Top Left MID
+    4300060: POD Glass Top Left LOW
+    4300062: POD Glass Bottom Right HI
+    4300064: POD Glass Bottom Right MID
+    4300066: POD Glass Bottom Right LOW
+    4300068: POD Glass Bottom Left HI
+    4300070: POD Glass Bottom Left MID
+    4300072: POD Glass Bottom Left LOW
+    4300074: POD V01 LCD MAIN HI
+    4300076: POD V01 LCD MAIN MID
+    4300078: POD V01 LCD MAIN LOW
+    4300080: POD Stairs 03
+    4300082: POD Stairs 02
+    4300084: POD Stairs 01
+    4300086: POD V01 Base HI
+    4300088: POD V01 Base LOW
+    4300090: POD V01 Base MID
+    4300092: POD Piston  Pipe I HI
+    4300094: POD Piston  Pipe I MID
+    4300096: POD Piston  Pipe I LOW
+    4300098: POD Piston  Pipe II HI
+    4300100: POD Piston  Pipe II LOW
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

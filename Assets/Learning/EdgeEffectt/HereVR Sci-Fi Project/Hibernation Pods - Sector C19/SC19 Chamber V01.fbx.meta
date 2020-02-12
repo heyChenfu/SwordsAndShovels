@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 94cb658927c6b364e9cd8041a55b953f
+timeCreated: 1432466582
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: SC19 - Chamber V01 Ceiling  LOW
+    100002: SC19 - Chamber V01 Ceiling HI
+    100004: SC19 - Chamber V01 Walls  II HI
+    100006: SC19 - Chamber V01 Walls  II LOW
+    100008: SC19 - Chamber V01 Walls  III HI
+    100010: SC19 - Chamber V01 Walls  III LOW
+    100012: SC19 - Chamber V01 Walls I HI
+    100014: SC19 - Chamber V01 Walls I LOW
+    100016: SC19 Chamber Girder V01 HI
+    100018: SC19 Chamber Girder V01 LOW
+    100020: //RootNode
+    100022: SC19 - Chamber V01 AXIS
+    100024: SC19 Lamp V01 Axis
+    100026: SC19 - Chamber V01 Walls  II HI.001
+    100028: SC19 - Chamber V01 Walls  II LOW.002
+    400000: SC19 - Chamber V01 Ceiling  LOW
+    400002: SC19 - Chamber V01 Ceiling HI
+    400004: SC19 - Chamber V01 Walls  II HI
+    400006: SC19 - Chamber V01 Walls  II LOW
+    400008: SC19 - Chamber V01 Walls  III HI
+    400010: SC19 - Chamber V01 Walls  III LOW
+    400012: SC19 - Chamber V01 Walls I HI
+    400014: SC19 - Chamber V01 Walls I LOW
+    400016: SC19 Chamber Girder V01 HI
+    400018: SC19 Chamber Girder V01 LOW
+    400020: //RootNode
+    400022: SC19 - Chamber V01 AXIS
+    400024: SC19 Lamp V01 Axis
+    400026: SC19 - Chamber V01 Walls  II HI.001
+    400028: SC19 - Chamber V01 Walls  II LOW.002
+    2300000: SC19 - Chamber V01 Ceiling  LOW
+    2300002: SC19 - Chamber V01 Ceiling HI
+    2300004: SC19 - Chamber V01 Walls  II HI
+    2300006: SC19 - Chamber V01 Walls  II LOW
+    2300008: SC19 - Chamber V01 Walls  III HI
+    2300010: SC19 - Chamber V01 Walls  III LOW
+    2300012: SC19 - Chamber V01 Walls I HI
+    2300014: SC19 - Chamber V01 Walls I LOW
+    2300016: SC19 Chamber Girder V01 HI
+    2300018: SC19 Chamber Girder V01 LOW
+    2300020: SC19 - Chamber V01 Walls  II HI.001
+    2300022: SC19 - Chamber V01 Walls  II LOW.002
+    3300000: SC19 - Chamber V01 Ceiling  LOW
+    3300002: SC19 - Chamber V01 Ceiling HI
+    3300004: SC19 - Chamber V01 Walls  II HI
+    3300006: SC19 - Chamber V01 Walls  II LOW
+    3300008: SC19 - Chamber V01 Walls  III HI
+    3300010: SC19 - Chamber V01 Walls  III LOW
+    3300012: SC19 - Chamber V01 Walls I HI
+    3300014: SC19 - Chamber V01 Walls I LOW
+    3300016: SC19 Chamber Girder V01 HI
+    3300018: SC19 Chamber Girder V01 LOW
+    3300020: SC19 - Chamber V01 Walls  II HI.001
+    3300022: SC19 - Chamber V01 Walls  II LOW.002
+    4300000: SC19 - Chamber V01 Walls  III HI
+    4300002: SC19 - Chamber V01 Walls  III LOW
+    4300004: SC19 - Chamber V01 Walls  II HI
+    4300006: SC19 - Chamber V01 Walls  II LOW
+    4300008: SC19 - Chamber V01 Walls I HI
+    4300010: SC19 - Chamber V01 Walls I LOW
+    4300012: SC19 Chamber Girder V01 HI
+    4300014: SC19 Chamber Girder V01 LOW
+    4300016: SC19 - Chamber V01 Ceiling HI
+    4300018: SC19 - Chamber V01 Ceiling  LOW
+    4300020: SC19 - Chamber V01 Walls  II HI.001
+    4300022: SC19 - Chamber V01 Walls  II LOW.002
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 28
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
